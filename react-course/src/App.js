@@ -7,8 +7,6 @@ import Layout from './components/layout/Layout';
 
 function App() {
   return (
-
-
     <Router>
       <Layout>
         <Routes>
